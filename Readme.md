@@ -41,4 +41,4 @@ A visually engaging knight movement puzzle game built using **Raylib**. The obje
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/Knight-Game.git
-   cd PongGame
+   cd KnightGame
